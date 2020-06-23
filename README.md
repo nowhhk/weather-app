@@ -1,2 +1,2 @@
-# fokin-weather
+# weather-app
 react-native EXPO
